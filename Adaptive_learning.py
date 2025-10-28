@@ -50,7 +50,7 @@ SCORING = "f1"
 EPS = 1e-6
 DRIFT_PVAL_THRESHOLD = 0.01
 
-st.set_page_config(page_title="CN7050 — Adaptive Diabetes Classifier", layout="wide")
+st.set_page_config(page_title="Adaptive Diabetes Classifier", layout="wide")
 
 # -------------------- Helper functions --------------------
 
@@ -102,7 +102,7 @@ def add_cluster_feature(X, fitted_scaler, fitted_kmeans):
 
 
 # -------------------- Streamlit UI --------------------
-st.title("CN7050 — Adaptive Diabetes Classifier (Lab 3)")
+st.title(" Adaptive Diabetes Classifier ")
 
 with st.sidebar:
     
