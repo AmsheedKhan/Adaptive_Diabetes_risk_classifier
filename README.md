@@ -1,5 +1,5 @@
-🧠 Adaptive Learning Models  
-### *A Collection of Intelligent, Self-Improving Machine Learning Systems*
+🧠 Adaptive Learning diabetic risk classifier  
+### *A Collection of Intelligent, Self-Improving Machine Learning Systems for diabetic risk *
 
 [![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
@@ -18,9 +18,7 @@ Experience an intelligent, adaptive system that predicts diabetes risk and learn
 ---
 
 ## 📘 Overview  
-This repository hosts **Adaptive Learning Models** — a collection of **intelligent systems** that improve their predictions dynamically through user feedback and continuous data learning.
-
-The first project in this collection is the **Diabetes Adaptive Learning App**, built with **Python** and **Streamlit**. It analyzes medical attributes and predicts diabetes likelihood while adapting its internal model from uploaded data.
+This repository hosts the **Diabetes Adaptive Learning App**, built with **Python** and **Streamlit**. It analyzes medical attributes and predicts diabetes likelihood while adapting its internal model from uploaded data.
 
 ---
 
@@ -29,25 +27,6 @@ The first project in this collection is the **Diabetes Adaptive Learning App**, 
 - 📊 **Interactive Streamlit Interface:** Simple and responsive UI for real-time analysis.  
 - 📁 **Custom Dataset Upload:** Supports CSV uploads matching the Pima Indians Diabetes dataset format.  
 - ⚙️ **Lightweight Deployment:** Works locally or on Streamlit Cloud seamlessly.  
-
----
-
-## 🏗️ Project Structure
-Adaptive_learning_models/
-│
-├── Adaptive_Learning_diabetes/
-│ ├── Adaptive_learning.py # Main Streamlit application
-│ ├── requirements.txt # Dependencies list
-│ ├── dataset_sample.csv # (Optional) Example dataset
-│ └── .gitignore # Ignored files
-│
-├── LICENSE
-└── README.md
-
-yaml
-Copy code
-
----
 
 ## 💻 How to Run Locally
 
@@ -96,8 +75,6 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ⭐ If you like this project, don’t forget to star the repo!
 Your support helps in building more adaptive learning systems. 🌟
 
-yaml
-Copy code
 
 ---
 
@@ -107,6 +84,3 @@ Copy code
 3. Paste the content → scroll down → click **Commit changes**.
 
 ---
-
-Would you like me to also make **a matching GitHub repository banner image** (with your title “Adaptive Learning Models” and AI graphics) to place at the top of the README?  
-It’ll make the repo look elite — like a professional research project.
