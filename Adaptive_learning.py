@@ -6,7 +6,7 @@
 
 # streamlit_diabetes_adaptive_app.py
 """
-Streamlit app for CN7050 - Intelligent Systems Lab 3
+
 Adaptive diabetes-risk classifier demonstrating:
  - Data tailoring (feature engineering)
  - Clustering (KMeans phenotypes) + prediction
@@ -105,9 +105,7 @@ def add_cluster_feature(X, fitted_scaler, fitted_kmeans):
 st.title("CN7050 — Adaptive Diabetes Classifier (Lab 3)")
 
 with st.sidebar:
-    st.header("Student info")
-    student_id = st.text_input("Student ID", value="Student ID")
-    student_name = st.text_input("Full Name", value="Full Name")
+    
 
     st.markdown("---")
     st.header("Dataset")
