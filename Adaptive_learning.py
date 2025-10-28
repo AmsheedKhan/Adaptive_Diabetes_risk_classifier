@@ -406,7 +406,6 @@ else:
 
 # footer
 st.markdown("---")
-st.caption(f"CN7050 Lab 3 app — Student: {student_name} ({student_id})")
 
 
 # In[ ]:
