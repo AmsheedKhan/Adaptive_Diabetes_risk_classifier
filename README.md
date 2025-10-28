@@ -31,18 +31,15 @@ This repository hosts the **Diabetes Adaptive Learning App**, built with **Pytho
 ## 💻 How to Run Locally
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/AmsheedKhan/Adaptive_learning_models.git
 cd Adaptive_learning_models/Adaptive_Learning_diabetes
-2️⃣ Install Dependencies
-bash
-Copy code
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Run the Streamlit App
-bash
-Copy code
+### 3️⃣ Run the Streamlit App
+
 streamlit run Adaptive_learning.py
-☁️ Deploy on Streamlit Cloud
+### ☁️ Deploy on Streamlit Cloud
 You can deploy this app directly to the cloud in minutes using Streamlit Community Cloud.
 
 Make sure your repo includes:
@@ -51,23 +48,23 @@ Adaptive_learning.py
 
 requirements.txt
 
-📊 Dataset
+### 📊 Dataset
 This app expects a dataset structured like the Pima Indians Diabetes Dataset.
 You can upload your own CSV file following the same format for personalized testing and model retraining.
 
-🖼️ Screenshot
+### 🖼️ Screenshot
 
-🔮 Future Roadmap
+###🔮 Future Roadmap
 🧠 Add adaptive systems for other domains (heart disease, education, finance).
 
 ⚙️ Integrate live retraining pipelines and cloud storage.
 
 🌍 Build an API for real-time adaptive model serving.
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-💡 Author
+### 💡 Author
 👤 Amsheed Khan
 🔗 GitHub Profile
 🚀 AI | Machine Learning | Adaptive Systems Enthusiast
